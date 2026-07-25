@@ -63,6 +63,7 @@ Sportsbook backends, odds tooling, and betting platforms.
 - [Ultrabet](https://github.com/anssip/ultrabet) - Sports betting backend in Kotlin with GraphQL.
 - [Ultrabet UI](https://github.com/anssip/ultrabet-ui) - Sports betting Next.js frontend, companion to Ultrabet.
 - [SportsBook](https://github.com/Pringleman83/SportsBook) - Sports data scraping and analysis tool in Python.
+- [Odds-API MCP Server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server that exposes real-time betting odds, events, and results from the Odds-API service to AI assistants. Covers 265+ bookmakers across 34 sports, with a free tier for development.
 
 ## Provably Fair and RNG
 
