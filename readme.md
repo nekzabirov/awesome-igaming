@@ -64,6 +64,7 @@ Sportsbook backends, odds tooling, and betting platforms.
 - [Ultrabet UI](https://github.com/anssip/ultrabet-ui) - Sports betting Next.js frontend, companion to Ultrabet.
 - [SportsBook](https://github.com/Pringleman83/SportsBook) - Sports data scraping and analysis tool in Python.
 - [Odds-API MCP Server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server that exposes real-time betting odds, events, and results from the Odds-API service to AI assistants. Covers 265+ bookmakers across 34 sports, with a free tier for development.
+- [ParlayAPI MCP Server](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server that exposes real-time sports betting odds, player props, and prediction-market data from the ParlayAPI service to AI assistants. Covers 45+ sportsbooks and sources across 90+ sports, with keyless preview tools and a free tier. MIT License.
 
 ## Provably Fair and RNG
 
