@@ -32,6 +32,7 @@ Services that normalize many game providers behind a single API. Operators integ
 - [Valkyrie](https://github.com/valkyrie-fnd/valkyrie) - Open-source game aggregator in Go. MIT License.
 - [FiversCan](https://github.com/zeusbyte/FiversCan) - iGaming panel and game aggregator API in JavaScript.
 - [NexusGGR Casino API](https://github.com/NexusGGR/casino-api) - Casino API integrating slots, live casino, and sports providers.
+- [Flexrix Gaming API](https://github.com/JeharoFuvi56/flexrix-gaming-api) - Seamless-wallet aggregator API unifying casino, live casino, and sportsbook providers behind a single HMAC-signed integration, with multi-currency and crypto settlement.
 
 ## Casino Lobby and Backend
 
