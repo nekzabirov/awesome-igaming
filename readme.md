@@ -40,6 +40,7 @@ Player-facing lobby applications and supporting backends.
 - [Laravel Social Gaming](https://github.com/promexdotme/laravel-social-gaming) - Open-source social gaming engine on Laravel 11 for retro slots and RNG arcade platforms.
 - [GoldenX Casino Site](https://github.com/MortalSoft/GoldenX-CASINO-SITE) - All-in-one online casino software with customizable games and SEO-optimized design.
 - [Bowie Backend](https://github.com/ryan-west-casino/bowie-backend) - Backend for a casino lobby application.
+- [Taker Casino](https://github.com/JeharoFuvi56/taker-casino-script) - Online casino platform on Laravel 7 with a Vue.js frontend and a Node.js realtime service; slot aggregator integration, live casino, and original games (mines, dice, wheel, plinko, crash).
 
 ## Slot Machines
 
