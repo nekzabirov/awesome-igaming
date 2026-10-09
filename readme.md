@@ -16,6 +16,7 @@ iGaming engineering sits at the intersection of high-throughput payments, real-t
 - [General Game Backends](#general-game-backends)
 - [Specifications and Regulatory Standards](#specifications-and-regulatory-standards)
 - [Game Provider Documentation](#game-provider-documentation)
+- [Industry Data and Careers](#industry-data-and-careers)
 - [Related Lists](#related-lists)
 - [Contributing](#contributing)
 
@@ -97,6 +98,12 @@ Public docs for major game providers, useful when implementing aggregator adapte
 - [Playtech](https://www.playtech.com/) - Casino, poker, bingo, sports.
 - [NetEnt](https://www.netent.com/) - Slot games.
 - [Microgaming (Games Global)](https://www.gamesglobal.com/) - Slots, poker, and aggregation.
+
+## Industry Data and Careers
+
+Open data about the iGaming labour market and hiring.
+
+- [SpinHire](https://spinhire.io/en/) - iGaming job board with an open jobs API (no key, OpenAPI 3.1 schema) and a CC BY 4.0 dataset of open vacancies, salary ranges and monthly market statistics published on Hugging Face.
 
 ## Related Lists
 
