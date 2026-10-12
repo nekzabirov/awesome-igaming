@@ -40,6 +40,7 @@ Player-facing lobby applications and supporting backends.
 - [Laravel Social Gaming](https://github.com/promexdotme/laravel-social-gaming) - Open-source social gaming engine on Laravel 11 for retro slots and RNG arcade platforms.
 - [GoldenX Casino Site](https://github.com/MortalSoft/GoldenX-CASINO-SITE) - All-in-one online casino software with customizable games and SEO-optimized design.
 - [Bowie Backend](https://github.com/ryan-west-casino/bowie-backend) - Backend for a casino lobby application.
+- [VIP90.bet Core](https://github.com/AfiliKod/vip90-bet-core) - Self-hosted betting and casino platform core in Node.js/React/MongoDB (AGPL-3.0): accounts, atomic wallet ledger, bonus/wagering engine, KYC queues, risk rules, admin panel. Docker Compose install with a browser setup wizard; in-house games, sportsbook and casino content are separate commercial add-ons.
 
 ## Slot Machines
 
