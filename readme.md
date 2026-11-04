@@ -69,6 +69,7 @@ Random number generation and provably-fair primitives used in crypto and regulat
 - [ProbablyFair](https://github.com/hexafluoride/ProbablyFair) - High-performance provably-fair RNG suited for gambling, in C#.
 - [Provably Fair RNG](https://github.com/dinethlive/provably-fair-rng) - Regulator-credible, open-source RNG for online gambling, in TypeScript.
 - [Provably Fair Casino Games](https://github.com/nekzabirov/Provably-Fair-Casino-Games) - Self-hosted casino games (Mines, Crash, Plinko, Lucky Cups, PvP wheel, Lottery) in Kotlin/Ktor with Vue, Pixi.js and Three.js clients. Outcomes derive from server and player seeds plus a public TON block hash. Apache 2.0.
+- [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Open-source browser verifier that recomputes HMAC-SHA256 server/client seed outcomes for Dice, Limbo, Crash, Mines and Plinko (Plinko drop path only, no multipliers). MIT License.
 
 ## General Game Backends
 
