@@ -61,6 +61,7 @@ Sportsbook backends, odds tooling, and betting platforms.
 - [SportsBook](https://github.com/Pringleman83/SportsBook) - Sports data scraping and analysis tool in Python.
 - [Odds-API MCP Server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server that exposes real-time betting odds, events, and results from the Odds-API service to AI assistants. Covers 265+ bookmakers across 34 sports, with a free tier for development.
 - [OddsRelay Python client](https://github.com/oddsrelay/oddsrelay-python) - Read-only Python client for OddsRelay, a pre-match odds data feed covering UK and Irish bookmakers and the Betfair, Smarkets, Matchbook and BETDAQ exchanges, for operators and trading teams that need a price reference. Standard library only, MIT License, no bet placement.
+- [PinnFeed MCP](https://github.com/pinnfeed/pinnfeed-mcp) - Hosted MCP server for live and prematch Pinnacle odds with no-vig fair prices, price drops and closing lines; free plan with REST docs.
 
 ## Provably Fair and RNG
 
