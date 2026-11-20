@@ -60,7 +60,7 @@ Sportsbook backends, odds tooling, and betting platforms.
 - [Ultrabet UI](https://github.com/anssip/ultrabet-ui) - Sports betting Next.js frontend, companion to Ultrabet.
 - [SportsBook](https://github.com/Pringleman83/SportsBook) - Sports data scraping and analysis tool in Python.
 - [Odds-API MCP Server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server that exposes real-time betting odds, events, and results from the Odds-API service to AI assistants. Covers 265+ bookmakers across 34 sports, with a free tier for development.
-- [OddsRelay Python client](https://github.com/oddsrelay/oddsrelay-python) - Read-only Python client for OddsRelay, a pre-match odds data feed covering UK and Irish bookmakers and the Betfair, Smarkets, Matchbook and BETDAQ exchanges, for operators and trading teams that need a price reference. Standard library only, MIT License, no bet placement.
+- [OddsRelay Python client](https://github.com/oddsrelay/oddsrelay-python) - Read-only Python client for OddsRelay, an odds data feed with raw bookmaker prices for the UK & Ireland and 20 more regions and, for the UK & Ireland, prices from the Betfair, Smarkets and Matchbook exchanges, for operators and trading teams that need a price reference. Standard library only, MIT License, no bet placement.
 
 ## Provably Fair and RNG
 
