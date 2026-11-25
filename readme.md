@@ -102,6 +102,7 @@ Public docs for major game providers, useful when implementing aggregator adapte
 Open data about the iGaming labour market and hiring.
 
 - [SpinHire](https://spinhire.io/en/) - iGaming job board with an open jobs API (no key, OpenAPI 3.1 schema) and a CC BY 4.0 dataset of open vacancies, salary ranges and monthly market statistics published on Hugging Face.
+- [RTP Ledger Slot RTP Dataset](https://github.com/rtpledger/rtp-ledger-dataset) - CC BY 4.0 dataset of 2,625 slot primary-RTP records with provider, source links, source status and check dates, published as CSV and JSON.
 
 ## Related Lists
 
