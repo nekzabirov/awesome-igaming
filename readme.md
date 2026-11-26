@@ -6,7 +6,6 @@ iGaming engineering sits at the intersection of high-throughput payments, real-t
 
 ## Contents
 
-- [Game Engines](#game-engines)
 - [Game Aggregators](#game-aggregators)
 - [Casino Lobby and Backend](#casino-lobby-and-backend)
 - [Slot Machines](#slot-machines)
@@ -16,14 +15,9 @@ iGaming engineering sits at the intersection of high-throughput payments, real-t
 - [General Game Backends](#general-game-backends)
 - [Specifications and Regulatory Standards](#specifications-and-regulatory-standards)
 - [Game Provider Documentation](#game-provider-documentation)
+- [Industry Data and Careers](#industry-data-and-careers)
 - [Related Lists](#related-lists)
 - [Contributing](#contributing)
-
-## Game Engines
-
-The core service that owns sessions, rounds, bets, settlements, and integrations with game providers.
-
-- [Casino Engine](https://github.com/nekzabirov/IGaming-Game-Engine) - Production-grade iGaming/casino engine in Kotlin/Ktor. Aggregator integrations (Pragmatic Play, OneGameHub, Pateplay), betting lifecycle (place/settle/rollback) with idempotency, freespin mechanics, gRPC API, RabbitMQ events. Hexagonal architecture with DDD and CQRS. Apache 2.0.
 
 ## Game Aggregators
 
@@ -32,6 +26,7 @@ Services that normalize many game providers behind a single API. Operators integ
 - [Valkyrie](https://github.com/valkyrie-fnd/valkyrie) - Open-source game aggregator in Go. MIT License.
 - [FiversCan](https://github.com/zeusbyte/FiversCan) - iGaming panel and game aggregator API in JavaScript.
 - [NexusGGR Casino API](https://github.com/NexusGGR/casino-api) - Casino API integrating slots, live casino, and sports providers.
+- [Casino Game Aggregator](https://github.com/nekzabirov/Casino-Game-Aggregator) - Casino and sportsbook game aggregation hub in Rust. One gRPC API for operators, adapters for OneGameHub, GamingFlow, Gambutsoft, Skyline, Pragmatic Play, PatePlay and 01.tech, operator wallet callbacks with idempotency and rollback, freespins and freebets, catalog sync and RTP. Apache 2.0.
 
 ## Casino Lobby and Backend
 
@@ -40,6 +35,7 @@ Player-facing lobby applications and supporting backends.
 - [Laravel Social Gaming](https://github.com/promexdotme/laravel-social-gaming) - Open-source social gaming engine on Laravel 11 for retro slots and RNG arcade platforms.
 - [GoldenX Casino Site](https://github.com/MortalSoft/GoldenX-CASINO-SITE) - All-in-one online casino software with customizable games and SEO-optimized design.
 - [Bowie Backend](https://github.com/ryan-west-casino/bowie-backend) - Backend for a casino lobby application.
+- [Currency Exchange Service](https://github.com/nekzabirov/Currency-Exchange-Service) - gRPC currency conversion and exchange-rate service in Rust for wallets and casino backends. Exact integer money units, in-memory rates, pluggable providers (OpenExchangeRates, Coinbase, CoinGecko). Apache 2.0.
 
 ## Slot Machines
 
@@ -64,7 +60,8 @@ Sportsbook backends, odds tooling, and betting platforms.
 - [Ultrabet UI](https://github.com/anssip/ultrabet-ui) - Sports betting Next.js frontend, companion to Ultrabet.
 - [SportsBook](https://github.com/Pringleman83/SportsBook) - Sports data scraping and analysis tool in Python.
 - [Odds-API MCP Server](https://github.com/odds-api-io/odds-api-mcp-server) - MCP server that exposes real-time betting odds, events, and results from the Odds-API service to AI assistants. Covers 265+ bookmakers across 34 sports, with a free tier for development.
-- [ParlayAPI MCP Server](https://github.com/JacobiusMakes/parlay-api-mcp) - MCP server that exposes real-time sports betting odds, player props, and prediction-market data from the ParlayAPI service to AI assistants. Covers 45+ sportsbooks and sources across 90+ sports, with keyless preview tools and a free tier. MIT License.
+- [OddsRelay Python client](https://github.com/oddsrelay/oddsrelay-python) - Read-only Python client for OddsRelay, a pre-match odds data feed covering UK and Irish bookmakers and the Betfair, Smarkets, Matchbook and BETDAQ exchanges, for operators and trading teams that need a price reference. Standard library only, MIT License, no bet placement.
+- [ParlayAPI MCP Server](https://github.com/JacobiusMakes/parlay-api-mcp) - Open-source MCP server for sportsbook odds, player props, and prediction-market data, with keyless catalog tools.
 
 ## Provably Fair and RNG
 
@@ -72,6 +69,8 @@ Random number generation and provably-fair primitives used in crypto and regulat
 
 - [ProbablyFair](https://github.com/hexafluoride/ProbablyFair) - High-performance provably-fair RNG suited for gambling, in C#.
 - [Provably Fair RNG](https://github.com/dinethlive/provably-fair-rng) - Regulator-credible, open-source RNG for online gambling, in TypeScript.
+- [Provably Fair Casino Games](https://github.com/nekzabirov/Provably-Fair-Casino-Games) - Self-hosted casino games (Mines, Crash, Plinko, Lucky Cups, PvP wheel, Lottery) in Kotlin/Ktor with Vue, Pixi.js and Three.js clients. Outcomes derive from server and player seeds plus a public TON block hash. Apache 2.0.
+- [provably-fair-verifier](https://github.com/cryptoplayguide/provably-fair-verifier) - Open-source browser verifier that recomputes HMAC-SHA256 server/client seed outcomes for Dice, Limbo, Crash, Mines and Plinko (Plinko drop path only, no multipliers). MIT License.
 
 ## General Game Backends
 
@@ -98,6 +97,12 @@ Public docs for major game providers, useful when implementing aggregator adapte
 - [Playtech](https://www.playtech.com/) - Casino, poker, bingo, sports.
 - [NetEnt](https://www.netent.com/) - Slot games.
 - [Microgaming (Games Global)](https://www.gamesglobal.com/) - Slots, poker, and aggregation.
+
+## Industry Data and Careers
+
+Open data about the iGaming labour market and hiring.
+
+- [SpinHire](https://spinhire.io/en/) - iGaming job board with an open jobs API (no key, OpenAPI 3.1 schema) and a CC BY 4.0 dataset of open vacancies, salary ranges and monthly market statistics published on Hugging Face.
 
 ## Related Lists
 
